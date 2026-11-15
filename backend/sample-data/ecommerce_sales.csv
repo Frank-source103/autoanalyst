@@ -1,0 +1,501 @@
+order_id,order_date,category,product_name,sales,quantity,discount,profit,customer_segment,region
+ORD-20260001,2026-05-21,Electronics,Smartphone,448.4,4,0.0,158.29,Small Business,North
+ORD-20260002,2026-01-17,Sports,Water Bottle,55.76,1,0.05,15.98,Consumer,South
+ORD-20260003,2026-04-23,Sports,Water Bottle,2170.64,8,0.0,819.73,Consumer,West
+ORD-20260004,2026-03-21,Home & Kitchen,Blender 3000,1725.56,4,0.1,280.57,Corporate,North
+ORD-20260005,2026-05-16,Home & Kitchen,Blender 3000,332.43,1,0.2,49.85,Corporate,North
+ORD-20260006,2026-07-05,Sports,Resistance Bands,1285.96,4,0.0,448.0,Corporate,North
+ORD-20260007,2026-07-14,Apparel,Running Shoes,1061.15,5,0.1,189.86,Corporate,South
+ORD-20260008,2026-03-29,Home & Kitchen,Espresso Maker,344.32,4,0.15,67.6,Small Business,South
+ORD-20260009,2026-04-28,Home & Kitchen,Espresso Maker,365.19,1,0.15,71.49,Consumer,East
+ORD-20260010,2026-07-22,Apparel,Wool Sweater,617.2,8,0.05,131.33,Small Business,East
+ORD-20260011,2026-10-26,Sports,Water Bottle,1207.29,7,0.05,347.36,Consumer,North
+ORD-20260012,2026-03-23,Electronics,Wireless Headphones,1921.08,7,0.15,431.88,Corporate,East
+ORD-20260013,2026-02-28,Sports,Yoga Mat,1746.7,5,0.1,288.41,Corporate,South
+ORD-20260014,2026-05-15,Beauty,Hydrating Serum,707.52,3,0.0,290.9,Corporate,South
+ORD-20260015,2026-03-24,Apparel,Cotton T-Shirt,275.54,1,0.15,36.5,Corporate,East
+ORD-20260016,2026-05-04,Apparel,Running Shoes,104.52,2,0.15,35.08,Small Business,South
+ORD-20260017,2026-10-09,Apparel,Wool Sweater,390.9,3,0.2,86.61,Consumer,South
+ORD-20260018,2026-07-11,Home & Kitchen,Cookware Set,3250.64,8,0.15,514.76,Consumer,North
+ORD-20260019,2026-10-11,Home & Kitchen,Espresso Maker,1083.88,4,0.0,185.67,Small Business,North
+ORD-20260020,2026-01-17,Apparel,Running Shoes,274.92,6,0.05,61.0,Corporate,South
+ORD-20260021,2026-10-20,Sports,Dumbbells 15lb,965.6,8,0.15,321.94,Consumer,North
+ORD-20260022,2026-07-01,Electronics,Smartwatch,1356.81,7,0.0,477.61,Small Business,North
+ORD-20260023,2026-06-23,Electronics,Smartwatch,246.34,2,0.05,72.75,Consumer,West
+ORD-20260024,2026-08-25,Apparel,Cotton T-Shirt,1581.6,4,0.0,447.5,Small Business,North
+ORD-20260025,2026-01-08,Electronics,4K Monitor,835.94,2,0.05,158.74,Corporate,West
+ORD-20260026,2026-01-31,Apparel,Wool Sweater,539.55,3,0.15,105.28,Corporate,East
+ORD-20260027,2026-09-07,Beauty,Lip Balm,292.83,3,0.05,122.57,Small Business,North
+ORD-20260028,2026-01-26,Home & Kitchen,Espresso Maker,1869.92,8,0.2,295.04,Small Business,North
+ORD-20260029,2026-02-04,Apparel,Running Shoes,762.56,4,0.2,136.57,Small Business,North
+ORD-20260030,2026-08-03,Sports,Yoga Mat,2529.6,6,0.05,843.3,Corporate,South
+ORD-20260031,2026-03-09,Home & Kitchen,Cookware Set,1069.45,5,0.0,163.41,Small Business,North
+ORD-20260032,2026-04-20,Electronics,4K Monitor,363.1,5,0.1,135.38,Consumer,East
+ORD-20260033,2026-08-13,Home & Kitchen,Air Fryer,1405.4,5,0.2,171.29,Small Business,East
+ORD-20260034,2026-05-16,Electronics,Wireless Headphones,804.06,2,0.2,126.48,Corporate,South
+ORD-20260035,2026-05-16,Home & Kitchen,Air Fryer,993.92,8,0.0,176.61,Corporate,East
+ORD-20260036,2026-06-20,Electronics,Smartphone,876.42,3,0.1,156.55,Corporate,West
+ORD-20260037,2026-02-27,Sports,Yoga Mat,852.2,2,0.05,253.95,Corporate,South
+ORD-20260038,2026-01-22,Beauty,Moisturizer SPF50,868.1,5,0.0,364.32,Consumer,South
+ORD-20260039,2026-10-14,Electronics,Laptop Pro,3070.34,7,0.05,1247.61,Consumer,South
+ORD-20260040,2026-01-13,Apparel,Wool Sweater,1006.23,3,0.1,348.4,Corporate,South
+ORD-20260041,2026-02-25,Home & Kitchen,Air Fryer,2760.73,7,0.15,508.58,Corporate,East
+ORD-20260042,2026-04-25,Home & Kitchen,Air Fryer,302.11,1,0.15,63.81,Consumer,East
+ORD-20260043,2026-07-24,Home & Kitchen,Chef Knife,2541.42,6,0.0,1049.89,Corporate,South
+ORD-20260044,2026-01-20,Sports,Resistance Bands,549.02,2,0.1,182.11,Corporate,West
+ORD-20260045,2026-03-01,Sports,Tennis Racket,2843.96,7,0.05,611.72,Small Business,West
+ORD-20260046,2026-10-03,Electronics,4K Monitor,693.76,4,0.0,301.55,Corporate,East
+ORD-20260047,2026-09-17,Electronics,Laptop Pro,1525.5,5,0.1,371.69,Corporate,South
+ORD-20260048,2026-07-14,Apparel,Wool Sweater,848.25,3,0.1,207.52,Consumer,East
+ORD-20260049,2026-08-09,Home & Kitchen,Air Fryer,1303.62,6,0.15,390.81,Small Business,West
+ORD-20260050,2026-05-26,Apparel,Running Shoes,333.72,6,0.05,111.54,Consumer,South
+ORD-20260051,2026-01-24,Apparel,Running Shoes,1772.04,4,0.2,574.03,Consumer,West
+ORD-20260052,2026-04-10,Beauty,Lip Balm,1610.35,7,0.05,297.2,Small Business,North
+ORD-20260053,2026-04-23,Electronics,Smartwatch,1094.37,3,0.2,253.34,Small Business,South
+ORD-20260054,2026-03-10,Electronics,Smartwatch,2443.2,8,0.2,642.34,Corporate,West
+ORD-20260055,2026-03-23,Sports,Water Bottle,1686.24,8,0.05,643.91,Corporate,West
+ORD-20260056,2026-08-14,Apparel,Cotton T-Shirt,650.78,2,0.05,143.13,Corporate,North
+ORD-20260057,2026-04-29,Apparel,Denim Jacket,2218.09,7,0.05,356.68,Corporate,East
+ORD-20260058,2026-08-01,Sports,Water Bottle,104.97,1,0.15,23.81,Small Business,North
+ORD-20260059,2026-09-02,Sports,Water Bottle,425.09,1,0.1,143.87,Corporate,South
+ORD-20260060,2026-05-20,Beauty,Moisturizer SPF50,1583.75,7,0.15,337.68,Small Business,West
+ORD-20260061,2026-03-07,Apparel,Wool Sweater,409.51,1,0.2,104.61,Consumer,North
+ORD-20260062,2026-08-25,Beauty,Moisturizer SPF50,110.61,3,0.15,23.34,Corporate,East
+ORD-20260063,2026-05-23,Home & Kitchen,Cookware Set,873.18,7,0.0,254.18,Small Business,North
+ORD-20260064,2026-02-05,Home & Kitchen,Air Fryer,343.09,1,0.05,68.38,Consumer,South
+ORD-20260065,2026-08-31,Apparel,Denim Jacket,520.66,2,0.05,143.2,Corporate,East
+ORD-20260066,2026-02-28,Apparel,Backpack,1303.95,3,0.0,421.97,Corporate,West
+ORD-20260067,2026-02-08,Beauty,Moisturizer SPF50,237.32,4,0.1,86.52,Small Business,North
+ORD-20260068,2026-06-27,Sports,Yoga Mat,2119.32,7,0.0,639.59,Corporate,North
+ORD-20260069,2026-02-24,Beauty,Shampoo Bar,3030.58,7,0.15,933.01,Corporate,South
+ORD-20260070,2026-10-03,Sports,Resistance Bands,1737.76,8,0.2,320.47,Consumer,North
+ORD-20260071,2026-05-05,Home & Kitchen,Cookware Set,2103.04,8,0.15,448.54,Corporate,East
+ORD-20260072,2026-04-19,Apparel,Wool Sweater,2172.36,6,0.1,457.3,Small Business,East
+ORD-20260073,2026-09-22,Sports,Yoga Mat,208.96,4,0.15,52.68,Consumer,West
+ORD-20260074,2026-01-09,Beauty,Shampoo Bar,285.98,2,0.15,86.91,Corporate,East
+ORD-20260075,2026-09-29,Beauty,Lip Balm,1200.54,6,0.2,239.38,Small Business,West
+ORD-20260076,2026-05-09,Home & Kitchen,Blender 3000,269.96,4,0.05,62.75,Small Business,South
+ORD-20260077,2026-09-05,Apparel,Denim Jacket,1650.95,5,0.2,434.58,Consumer,South
+ORD-20260078,2026-07-04,Home & Kitchen,Air Fryer,439.47,3,0.2,66.09,Consumer,North
+ORD-20260079,2026-03-06,Sports,Resistance Bands,477.04,8,0.0,153.71,Corporate,West
+ORD-20260080,2026-04-05,Beauty,Face Cleanser,124.83,1,0.15,19.55,Consumer,West
+ORD-20260081,2026-10-23,Beauty,Hydrating Serum,81.0,1,0.2,28.17,Consumer,South
+ORD-20260082,2026-08-02,Electronics,4K Monitor,1409.72,4,0.15,341.69,Corporate,East
+ORD-20260083,2026-06-06,Sports,Water Bottle,280.19,1,0.0,121.68,Consumer,South
+ORD-20260084,2026-03-22,Home & Kitchen,Espresso Maker,362.44,4,0.0,71.39,Corporate,West
+ORD-20260085,2026-05-30,Sports,Water Bottle,115.69,1,0.1,37.58,Corporate,North
+ORD-20260086,2026-04-12,Apparel,Cotton T-Shirt,454.51,7,0.05,148.66,Corporate,South
+ORD-20260087,2026-03-26,Electronics,Smartphone,1369.2,5,0.2,467.02,Corporate,North
+ORD-20260088,2026-07-26,Beauty,Face Cleanser,1163.55,5,0.15,278.24,Small Business,North
+ORD-20260089,2026-05-09,Beauty,Face Cleanser,54.73,1,0.2,14.28,Consumer,East
+ORD-20260090,2026-03-31,Sports,Yoga Mat,1926.0,8,0.15,695.48,Consumer,West
+ORD-20260091,2026-08-29,Beauty,Hydrating Serum,1155.78,6,0.1,365.15,Consumer,East
+ORD-20260092,2026-05-28,Beauty,Shampoo Bar,2582.3,7,0.2,332.62,Consumer,East
+ORD-20260093,2026-03-01,Home & Kitchen,Blender 3000,2738.68,7,0.0,951.14,Small Business,West
+ORD-20260094,2026-04-07,Beauty,Hydrating Serum,1715.1,6,0.15,492.2,Consumer,South
+ORD-20260095,2026-03-09,Home & Kitchen,Chef Knife,1027.9,5,0.15,162.88,Small Business,South
+ORD-20260096,2026-10-10,Apparel,Cotton T-Shirt,255.23,1,0.0,55.49,Consumer,West
+ORD-20260097,2026-09-13,Electronics,Wireless Headphones,1181.8,5,0.1,292.12,Corporate,West
+ORD-20260098,2026-10-10,Apparel,Wool Sweater,545.58,3,0.2,132.02,Consumer,North
+ORD-20260099,2026-06-24,Home & Kitchen,Cookware Set,1859.7,5,0.1,615.62,Small Business,West
+ORD-20260100,2026-10-03,Apparel,Wool Sweater,1321.04,8,0.2,400.39,Corporate,West
+ORD-20260101,2026-05-03,Home & Kitchen,Air Fryer,816.2,7,0.15,113.15,Small Business,West
+ORD-20260102,2026-03-19,Beauty,Shampoo Bar,3477.6,8,0.05,993.39,Small Business,East
+ORD-20260103,2026-02-21,Electronics,Smartwatch,173.44,8,0.05,44.98,Small Business,South
+ORD-20260104,2026-05-16,Electronics,Smartwatch,1716.72,6,0.15,503.36,Corporate,West
+ORD-20260105,2026-10-05,Home & Kitchen,Cookware Set,283.59,1,0.05,91.42,Corporate,South
+ORD-20260106,2026-02-20,Electronics,Smartwatch,416.0,2,0.1,157.63,Consumer,East
+ORD-20260107,2026-07-03,Electronics,Laptop Pro,1214.1,6,0.05,356.8,Small Business,South
+ORD-20260108,2026-02-10,Apparel,Denim Jacket,1991.99,7,0.05,566.39,Small Business,South
+ORD-20260109,2026-05-11,Apparel,Wool Sweater,1008.56,8,0.0,423.26,Corporate,East
+ORD-20260110,2026-02-07,Sports,Dumbbells 15lb,3409.44,8,0.2,653.92,Corporate,East
+ORD-20260111,2026-04-12,Beauty,Face Cleanser,2703.4,7,0.0,597.89,Small Business,East
+ORD-20260112,2026-06-01,Sports,Resistance Bands,440.41,1,0.15,86.98,Small Business,North
+ORD-20260113,2026-05-27,Sports,Water Bottle,1116.28,4,0.1,216.7,Consumer,East
+ORD-20260114,2026-01-21,Apparel,Running Shoes,1790.25,5,0.0,579.81,Small Business,South
+ORD-20260115,2026-06-17,Electronics,Laptop Pro,639.8,7,0.05,234.59,Corporate,East
+ORD-20260116,2026-09-04,Apparel,Cotton T-Shirt,1698.75,5,0.1,598.2,Corporate,North
+ORD-20260117,2026-07-23,Apparel,Denim Jacket,325.68,6,0.15,42.68,Small Business,North
+ORD-20260118,2026-05-15,Beauty,Face Cleanser,2609.25,7,0.1,428.58,Consumer,West
+ORD-20260119,2026-10-15,Electronics,4K Monitor,2478.84,6,0.05,810.78,Small Business,West
+ORD-20260120,2026-03-01,Home & Kitchen,Cookware Set,104.19,3,0.0,25.14,Corporate,North
+ORD-20260121,2026-10-03,Electronics,Wireless Headphones,552.18,3,0.1,174.51,Small Business,West
+ORD-20260122,2026-08-01,Sports,Dumbbells 15lb,755.32,2,0.2,164.62,Corporate,North
+ORD-20260123,2026-08-16,Home & Kitchen,Air Fryer,3427.92,8,0.1,554.73,Small Business,East
+ORD-20260124,2026-02-01,Sports,Resistance Bands,945.07,7,0.0,410.82,Corporate,North
+ORD-20260125,2026-01-11,Apparel,Backpack,357.26,1,0.05,151.59,Small Business,South
+ORD-20260126,2026-04-17,Electronics,4K Monitor,1474.72,4,0.05,348.24,Consumer,North
+ORD-20260127,2026-03-08,Home & Kitchen,Air Fryer,1811.75,5,0.0,631.06,Consumer,South
+ORD-20260128,2026-05-02,Electronics,Laptop Pro,131.16,6,0.1,19.56,Small Business,West
+ORD-20260129,2026-02-02,Sports,Yoga Mat,1680.0,8,0.1,459.6,Consumer,West
+ORD-20260130,2026-01-23,Sports,Dumbbells 15lb,1071.25,5,0.0,180.24,Corporate,West
+ORD-20260131,2026-09-09,Beauty,Hydrating Serum,375.76,8,0.0,92.68,Consumer,North
+ORD-20260132,2026-10-27,Apparel,Cotton T-Shirt,1084.14,6,0.2,268.14,Corporate,West
+ORD-20260133,2026-10-10,Electronics,Smartphone,808.32,4,0.05,210.52,Corporate,West
+ORD-20260134,2026-06-10,Beauty,Hydrating Serum,1056.65,7,0.1,249.43,Consumer,West
+ORD-20260135,2026-02-13,Electronics,Smartphone,405.74,2,0.1,143.7,Small Business,North
+ORD-20260136,2026-10-15,Sports,Tennis Racket,1838.76,6,0.15,400.24,Small Business,West
+ORD-20260137,2026-06-09,Electronics,Laptop Pro,360.42,6,0.2,61.65,Small Business,West
+ORD-20260138,2026-06-29,Apparel,Running Shoes,389.88,6,0.1,113.07,Corporate,North
+ORD-20260139,2026-01-15,Sports,Resistance Bands,401.61,3,0.1,154.14,Corporate,North
+ORD-20260140,2026-10-17,Apparel,Denim Jacket,316.89,7,0.0,56.26,Small Business,South
+ORD-20260141,2026-08-21,Beauty,Shampoo Bar,500.82,6,0.1,165.19,Small Business,North
+ORD-20260142,2026-03-22,Electronics,Wireless Headphones,308.18,1,0.1,78.48,Corporate,West
+ORD-20260143,2026-08-01,Sports,Water Bottle,543.85,5,0.2,80.12,Corporate,North
+ORD-20260144,2026-09-07,Home & Kitchen,Chef Knife,173.8,5,0.15,65.79,Consumer,North
+ORD-20260145,2026-04-19,Apparel,Cotton T-Shirt,1042.23,3,0.1,233.04,Consumer,West
+ORD-20260146,2026-03-08,Beauty,Moisturizer SPF50,1726.69,7,0.05,492.24,Small Business,East
+ORD-20260147,2026-01-22,Electronics,Smartwatch,162.05,7,0.0,66.22,Small Business,West
+ORD-20260148,2026-08-02,Sports,Water Bottle,325.5,5,0.0,143.17,Consumer,West
+ORD-20260149,2026-08-12,Home & Kitchen,Espresso Maker,241.68,2,0.2,52.23,Consumer,West
+ORD-20260150,2026-04-24,Home & Kitchen,Blender 3000,2123.52,6,0.0,643.73,Consumer,South
+ORD-20260151,2026-03-17,Home & Kitchen,Blender 3000,238.88,4,0.1,44.97,Small Business,South
+ORD-20260152,2026-09-10,Electronics,Wireless Headphones,2745.44,8,0.2,625.24,Small Business,East
+ORD-20260153,2026-08-14,Home & Kitchen,Air Fryer,437.96,2,0.1,153.29,Small Business,North
+ORD-20260154,2026-02-07,Home & Kitchen,Chef Knife,1079.3,5,0.0,180.32,Corporate,North
+ORD-20260155,2026-09-17,Electronics,4K Monitor,1513.96,7,0.2,528.4,Small Business,North
+ORD-20260156,2026-04-07,Beauty,Lip Balm,1669.08,6,0.2,260.72,Consumer,West
+ORD-20260157,2026-02-13,Electronics,Laptop Pro,96.09,3,0.15,36.53,Small Business,South
+ORD-20260158,2026-05-25,Home & Kitchen,Blender 3000,1349.67,7,0.1,429.6,Consumer,East
+ORD-20260159,2026-02-18,Electronics,Laptop Pro,970.2,7,0.2,319.77,Corporate,North
+ORD-20260160,2026-06-29,Sports,Dumbbells 15lb,2179.75,5,0.15,349.59,Small Business,North
+ORD-20260161,2026-07-12,Home & Kitchen,Chef Knife,2212.44,6,0.2,315.11,Small Business,West
+ORD-20260162,2026-01-10,Sports,Resistance Bands,896.16,6,0.05,214.98,Corporate,South
+ORD-20260163,2026-03-21,Apparel,Denim Jacket,287.34,2,0.0,86.86,Small Business,North
+ORD-20260164,2026-03-09,Home & Kitchen,Chef Knife,574.7,7,0.05,218.06,Small Business,South
+ORD-20260165,2026-07-30,Beauty,Hydrating Serum,1855.32,6,0.05,777.07,Small Business,East
+ORD-20260166,2026-10-01,Beauty,Moisturizer SPF50,598.48,4,0.15,214.26,Consumer,East
+ORD-20260167,2026-08-25,Sports,Water Bottle,1767.4,5,0.2,435.82,Consumer,South
+ORD-20260168,2026-05-09,Sports,Dumbbells 15lb,293.91,1,0.1,83.68,Consumer,North
+ORD-20260169,2026-03-24,Home & Kitchen,Espresso Maker,1052.25,5,0.2,163.48,Corporate,North
+ORD-20260170,2026-06-28,Apparel,Wool Sweater,195.48,1,0.15,49.95,Consumer,West
+ORD-20260171,2026-04-25,Electronics,Laptop Pro,153.63,1,0.0,61.72,Small Business,East
+ORD-20260172,2026-01-20,Apparel,Denim Jacket,2070.35,5,0.15,631.45,Consumer,West
+ORD-20260173,2026-01-03,Beauty,Lip Balm,46.54,2,0.05,17.71,Small Business,West
+ORD-20260174,2026-05-02,Electronics,Laptop Pro,340.0,5,0.05,89.13,Small Business,West
+ORD-20260175,2026-09-13,Electronics,Smartphone,289.9,1,0.2,51.62,Consumer,East
+ORD-20260176,2026-06-30,Beauty,Hydrating Serum,1052.96,4,0.05,349.42,Consumer,East
+ORD-20260177,2026-10-06,Electronics,4K Monitor,184.85,1,0.15,25.62,Corporate,East
+ORD-20260178,2026-07-02,Home & Kitchen,Espresso Maker,329.98,2,0.0,125.87,Small Business,East
+ORD-20260179,2026-06-30,Apparel,Running Shoes,2213.28,6,0.05,839.19,Small Business,West
+ORD-20260180,2026-03-11,Beauty,Moisturizer SPF50,652.96,2,0.15,89.41,Consumer,North
+ORD-20260181,2026-06-11,Apparel,Running Shoes,1195.95,5,0.2,279.39,Consumer,South
+ORD-20260182,2026-01-25,Home & Kitchen,Blender 3000,803.1,6,0.1,203.17,Corporate,West
+ORD-20260183,2026-04-06,Beauty,Face Cleanser,2528.4,8,0.1,972.33,Small Business,East
+ORD-20260184,2026-02-10,Electronics,Smartwatch,1939.49,7,0.05,577.89,Corporate,North
+ORD-20260185,2026-06-01,Electronics,Laptop Pro,1044.85,5,0.15,177.62,Corporate,East
+ORD-20260186,2026-06-30,Beauty,Hydrating Serum,941.01,7,0.0,162.34,Small Business,West
+ORD-20260187,2026-03-23,Home & Kitchen,Chef Knife,77.11,1,0.2,21.8,Corporate,North
+ORD-20260188,2026-05-01,Apparel,Running Shoes,1035.24,6,0.2,132.28,Consumer,West
+ORD-20260189,2026-08-16,Home & Kitchen,Blender 3000,529.32,2,0.2,110.13,Corporate,East
+ORD-20260190,2026-01-14,Apparel,Running Shoes,696.24,3,0.15,250.96,Consumer,East
+ORD-20260191,2026-04-20,Home & Kitchen,Cookware Set,1584.4,5,0.15,282.89,Consumer,North
+ORD-20260192,2026-08-16,Beauty,Moisturizer SPF50,735.14,2,0.1,231.8,Small Business,North
+ORD-20260193,2026-05-29,Sports,Tennis Racket,1926.7,5,0.05,710.38,Small Business,South
+ORD-20260194,2026-03-13,Electronics,Wireless Headphones,1435.24,4,0.0,370.68,Small Business,East
+ORD-20260195,2026-03-08,Beauty,Lip Balm,87.2,2,0.15,33.34,Small Business,West
+ORD-20260196,2026-07-29,Sports,Water Bottle,139.04,2,0.1,42.88,Corporate,West
+ORD-20260197,2026-03-07,Sports,Resistance Bands,1046.97,3,0.05,278.28,Consumer,North
+ORD-20260198,2026-06-05,Sports,Dumbbells 15lb,256.38,3,0.05,61.82,Small Business,East
+ORD-20260199,2026-04-11,Electronics,Laptop Pro,347.25,5,0.1,104.49,Consumer,South
+ORD-20260200,2026-03-20,Sports,Tennis Racket,904.65,3,0.2,181.86,Small Business,North
+ORD-20260201,2026-01-24,Electronics,Smartphone,1491.2,5,0.2,328.04,Small Business,North
+ORD-20260202,2026-05-29,Beauty,Lip Balm,1125.4,5,0.15,228.85,Consumer,North
+ORD-20260203,2026-08-01,Apparel,Wool Sweater,1736.24,8,0.1,518.79,Corporate,East
+ORD-20260204,2026-03-08,Home & Kitchen,Cookware Set,1434.12,6,0.0,352.41,Corporate,North
+ORD-20260205,2026-05-07,Home & Kitchen,Cookware Set,171.33,3,0.1,66.86,Small Business,West
+ORD-20260206,2026-06-17,Apparel,Denim Jacket,585.48,6,0.05,166.57,Small Business,West
+ORD-20260207,2026-09-12,Beauty,Face Cleanser,54.17,1,0.15,13.89,Consumer,South
+ORD-20260208,2026-01-25,Sports,Resistance Bands,137.39,1,0.2,45.58,Small Business,West
+ORD-20260209,2026-01-05,Home & Kitchen,Chef Knife,404.9,2,0.1,134.19,Corporate,East
+ORD-20260210,2026-01-27,Electronics,Smartwatch,690.8,4,0.1,106.97,Small Business,West
+ORD-20260211,2026-03-02,Sports,Resistance Bands,1317.48,3,0.15,293.36,Corporate,East
+ORD-20260212,2026-09-18,Apparel,Denim Jacket,1627.71,7,0.0,263.16,Small Business,East
+ORD-20260213,2026-08-22,Beauty,Lip Balm,836.16,3,0.2,128.39,Small Business,East
+ORD-20260214,2026-06-03,Apparel,Wool Sweater,1414.08,6,0.2,350.35,Small Business,East
+ORD-20260215,2026-07-08,Beauty,Hydrating Serum,1848.66,6,0.15,510.87,Small Business,North
+ORD-20260216,2026-05-16,Sports,Water Bottle,1315.24,4,0.2,309.49,Small Business,West
+ORD-20260217,2026-01-17,Apparel,Denim Jacket,195.98,2,0.15,40.66,Consumer,West
+ORD-20260218,2026-09-14,Apparel,Wool Sweater,3157.44,8,0.0,1142.15,Small Business,South
+ORD-20260219,2026-09-02,Sports,Resistance Bands,1060.36,7,0.05,290.01,Small Business,East
+ORD-20260220,2026-05-16,Sports,Resistance Bands,789.04,8,0.05,175.18,Corporate,South
+ORD-20260221,2026-04-17,Home & Kitchen,Blender 3000,1223.28,8,0.1,350.26,Small Business,East
+ORD-20260222,2026-10-21,Home & Kitchen,Espresso Maker,2832.62,7,0.15,952.29,Consumer,East
+ORD-20260223,2026-02-10,Electronics,Laptop Pro,2501.64,6,0.1,842.51,Consumer,South
+ORD-20260224,2026-10-15,Sports,Resistance Bands,373.55,5,0.2,111.25,Consumer,South
+ORD-20260225,2026-04-26,Electronics,4K Monitor,151.32,4,0.15,32.04,Corporate,North
+ORD-20260226,2026-10-09,Apparel,Running Shoes,576.0,3,0.15,143.57,Consumer,East
+ORD-20260227,2026-01-31,Home & Kitchen,Blender 3000,597.5,2,0.05,176.27,Small Business,North
+ORD-20260228,2026-04-01,Apparel,Wool Sweater,448.77,1,0.15,147.39,Consumer,East
+ORD-20260229,2026-06-02,Electronics,Smartphone,837.76,2,0.1,177.46,Small Business,West
+ORD-20260230,2026-08-28,Apparel,Backpack,494.35,5,0.0,123.19,Small Business,West
+ORD-20260231,2026-01-08,Home & Kitchen,Air Fryer,2153.88,6,0.2,607.08,Consumer,South
+ORD-20260232,2026-08-07,Sports,Water Bottle,316.38,6,0.0,65.0,Consumer,West
+ORD-20260233,2026-01-04,Home & Kitchen,Air Fryer,909.25,5,0.15,290.69,Corporate,East
+ORD-20260234,2026-01-06,Sports,Tennis Racket,1496.75,5,0.05,239.79,Consumer,West
+ORD-20260235,2026-07-27,Home & Kitchen,Air Fryer,1576.4,5,0.1,369.25,Consumer,South
+ORD-20260236,2026-03-20,Apparel,Wool Sweater,2722.08,8,0.2,570.74,Small Business,West
+ORD-20260237,2026-05-07,Sports,Dumbbells 15lb,487.2,2,0.2,140.75,Consumer,North
+ORD-20260238,2026-09-16,Electronics,4K Monitor,1056.52,4,0.05,200.1,Small Business,West
+ORD-20260239,2026-10-26,Electronics,Wireless Headphones,436.48,8,0.2,99.04,Consumer,West
+ORD-20260240,2026-08-01,Apparel,Backpack,2082.4,8,0.2,480.97,Corporate,North
+ORD-20260241,2026-01-02,Beauty,Face Cleanser,1066.28,4,0.0,295.48,Small Business,North
+ORD-20260242,2026-02-05,Sports,Yoga Mat,230.4,8,0.15,39.95,Consumer,West
+ORD-20260243,2026-08-18,Home & Kitchen,Cookware Set,1248.87,7,0.2,189.73,Corporate,North
+ORD-20260244,2026-07-21,Apparel,Backpack,994.86,3,0.05,378.47,Consumer,East
+ORD-20260245,2026-08-06,Beauty,Lip Balm,2612.12,7,0.05,715.14,Consumer,East
+ORD-20260246,2026-01-17,Apparel,Running Shoes,1977.43,7,0.0,439.38,Consumer,North
+ORD-20260247,2026-08-17,Sports,Yoga Mat,121.46,1,0.0,32.88,Consumer,South
+ORD-20260248,2026-09-15,Electronics,Wireless Headphones,584.3,5,0.2,114.84,Small Business,East
+ORD-20260249,2026-03-15,Apparel,Cotton T-Shirt,779.6,4,0.1,118.08,Small Business,South
+ORD-20260250,2026-09-11,Beauty,Lip Balm,437.95,1,0.15,143.6,Corporate,West
+ORD-20260251,2026-06-03,Beauty,Moisturizer SPF50,664.93,7,0.2,155.36,Consumer,East
+ORD-20260252,2026-01-30,Apparel,Wool Sweater,3051.93,7,0.2,754.43,Corporate,South
+ORD-20260253,2026-06-19,Home & Kitchen,Air Fryer,832.34,2,0.1,133.15,Small Business,South
+ORD-20260254,2026-07-13,Electronics,Laptop Pro,395.02,1,0.05,146.88,Small Business,South
+ORD-20260255,2026-06-20,Beauty,Moisturizer SPF50,2156.5,5,0.0,460.5,Consumer,North
+ORD-20260256,2026-04-15,Beauty,Moisturizer SPF50,2891.56,7,0.2,570.18,Corporate,West
+ORD-20260257,2026-07-03,Beauty,Lip Balm,643.9,5,0.2,213.69,Corporate,North
+ORD-20260258,2026-04-15,Beauty,Face Cleanser,906.72,6,0.0,289.02,Consumer,South
+ORD-20260259,2026-10-11,Electronics,Laptop Pro,1003.87,7,0.05,237.43,Corporate,South
+ORD-20260260,2026-06-22,Beauty,Lip Balm,1735.3,5,0.15,648.93,Small Business,West
+ORD-20260261,2026-06-30,Beauty,Moisturizer SPF50,227.64,3,0.2,54.0,Small Business,North
+ORD-20260262,2026-02-08,Sports,Yoga Mat,347.49,1,0.15,56.49,Small Business,South
+ORD-20260263,2026-01-05,Electronics,Wireless Headphones,939.96,4,0.1,142.24,Small Business,West
+ORD-20260264,2026-01-04,Beauty,Hydrating Serum,141.12,7,0.2,41.39,Small Business,East
+ORD-20260265,2026-08-09,Electronics,4K Monitor,184.65,3,0.0,56.75,Consumer,South
+ORD-20260266,2026-05-10,Sports,Tennis Racket,787.74,6,0.15,116.31,Corporate,West
+ORD-20260267,2026-04-26,Sports,Dumbbells 15lb,1562.8,5,0.0,540.92,Small Business,North
+ORD-20260268,2026-07-14,Electronics,Smartwatch,1788.01,7,0.0,609.76,Small Business,South
+ORD-20260269,2026-08-11,Electronics,Smartwatch,1566.9,6,0.0,655.65,Consumer,South
+ORD-20260270,2026-09-01,Apparel,Backpack,176.25,5,0.0,62.63,Corporate,North
+ORD-20260271,2026-01-09,Apparel,Cotton T-Shirt,1081.44,4,0.15,394.04,Corporate,South
+ORD-20260272,2026-10-18,Sports,Dumbbells 15lb,2166.57,7,0.2,432.48,Small Business,South
+ORD-20260273,2026-06-27,Electronics,4K Monitor,57.49,1,0.05,21.93,Corporate,West
+ORD-20260274,2026-05-20,Home & Kitchen,Espresso Maker,1827.28,8,0.1,519.53,Corporate,West
+ORD-20260275,2026-07-14,Apparel,Backpack,701.78,2,0.1,245.96,Small Business,North
+ORD-20260276,2026-03-20,Electronics,Laptop Pro,2272.06,7,0.05,802.72,Corporate,East
+ORD-20260277,2026-01-03,Electronics,Smartphone,1042.3,5,0.1,169.48,Consumer,South
+ORD-20260278,2026-10-13,Beauty,Shampoo Bar,419.51,7,0.0,107.47,Consumer,East
+ORD-20260279,2026-05-30,Beauty,Hydrating Serum,1285.83,7,0.0,472.48,Small Business,South
+ORD-20260280,2026-03-28,Sports,Tennis Racket,621.11,7,0.1,134.35,Corporate,South
+ORD-20260281,2026-08-11,Electronics,Wireless Headphones,990.9,5,0.15,324.1,Corporate,East
+ORD-20260282,2026-04-11,Apparel,Wool Sweater,492.24,8,0.1,67.35,Corporate,East
+ORD-20260283,2026-06-18,Sports,Water Bottle,1284.88,8,0.2,196.16,Corporate,South
+ORD-20260284,2026-04-01,Beauty,Face Cleanser,3054.8,7,0.1,1018.52,Small Business,West
+ORD-20260285,2026-06-16,Sports,Dumbbells 15lb,958.51,7,0.15,211.43,Small Business,South
+ORD-20260286,2026-04-03,Sports,Tennis Racket,429.56,1,0.15,158.06,Consumer,West
+ORD-20260287,2026-07-29,Home & Kitchen,Espresso Maker,604.32,8,0.1,121.07,Small Business,South
+ORD-20260288,2026-02-07,Beauty,Shampoo Bar,3567.6,8,0.15,984.56,Small Business,West
+ORD-20260289,2026-07-04,Sports,Yoga Mat,125.16,2,0.05,41.29,Corporate,South
+ORD-20260290,2026-10-16,Sports,Yoga Mat,3048.92,7,0.1,1206.59,Corporate,North
+ORD-20260291,2026-05-13,Electronics,Smartphone,948.56,4,0.2,240.86,Small Business,South
+ORD-20260292,2026-07-20,Beauty,Face Cleanser,2807.76,8,0.2,802.19,Consumer,East
+ORD-20260293,2026-02-23,Electronics,Smartwatch,979.75,5,0.0,181.08,Small Business,South
+ORD-20260294,2026-06-25,Home & Kitchen,Blender 3000,2849.28,8,0.2,672.15,Corporate,North
+ORD-20260295,2026-06-13,Beauty,Shampoo Bar,291.22,2,0.0,45.66,Corporate,North
+ORD-20260296,2026-09-22,Apparel,Denim Jacket,765.24,3,0.1,218.98,Corporate,South
+ORD-20260297,2026-04-06,Beauty,Moisturizer SPF50,1309.56,7,0.2,434.7,Corporate,West
+ORD-20260298,2026-04-20,Beauty,Hydrating Serum,544.32,4,0.0,175.93,Small Business,South
+ORD-20260299,2026-04-11,Home & Kitchen,Blender 3000,516.56,8,0.15,135.37,Small Business,East
+ORD-20260300,2026-07-20,Sports,Water Bottle,332.7,2,0.15,94.8,Small Business,East
+ORD-20260301,2026-02-13,Sports,Tennis Racket,453.72,3,0.05,104.14,Consumer,East
+ORD-20260302,2026-07-18,Apparel,Backpack,1921.15,7,0.2,407.46,Consumer,West
+ORD-20260303,2026-10-12,Sports,Dumbbells 15lb,683.97,3,0.05,133.94,Corporate,North
+ORD-20260304,2026-09-06,Home & Kitchen,Espresso Maker,299.64,3,0.15,111.85,Small Business,West
+ORD-20260305,2026-08-01,Beauty,Shampoo Bar,1820.64,8,0.0,581.91,Consumer,East
+ORD-20260306,2026-04-26,Electronics,Laptop Pro,440.85,5,0.15,119.8,Corporate,North
+ORD-20260307,2026-05-18,Sports,Yoga Mat,1504.74,6,0.0,568.79,Corporate,South
+ORD-20260308,2026-05-07,Beauty,Hydrating Serum,1977.7,5,0.0,563.49,Corporate,North
+ORD-20260309,2026-05-02,Beauty,Hydrating Serum,1470.64,4,0.2,419.71,Small Business,West
+ORD-20260310,2026-03-13,Apparel,Backpack,1475.56,4,0.0,473.69,Small Business,East
+ORD-20260311,2026-03-28,Sports,Tennis Racket,2645.22,6,0.1,563.75,Corporate,North
+ORD-20260312,2026-01-31,Apparel,Wool Sweater,1960.85,5,0.05,671.41,Consumer,South
+ORD-20260313,2026-05-07,Apparel,Cotton T-Shirt,1595.37,7,0.2,433.58,Small Business,West
+ORD-20260314,2026-02-08,Beauty,Shampoo Bar,380.48,2,0.1,122.73,Corporate,West
+ORD-20260315,2026-10-25,Beauty,Face Cleanser,392.97,1,0.0,145.12,Corporate,East
+ORD-20260316,2026-07-23,Electronics,4K Monitor,1744.56,4,0.05,494.57,Corporate,East
+ORD-20260317,2026-10-23,Home & Kitchen,Chef Knife,783.81,3,0.15,257.5,Small Business,North
+ORD-20260318,2026-08-24,Electronics,Smartphone,69.04,1,0.05,18.52,Consumer,West
+ORD-20260319,2026-06-04,Apparel,Denim Jacket,1186.11,3,0.1,190.02,Corporate,East
+ORD-20260320,2026-03-26,Electronics,Laptop Pro,187.41,1,0.1,62.04,Consumer,West
+ORD-20260321,2026-01-01,Electronics,Smartphone,889.64,4,0.05,277.3,Small Business,West
+ORD-20260322,2026-06-25,Electronics,Smartphone,889.7,2,0.15,270.89,Corporate,North
+ORD-20260323,2026-02-15,Apparel,Wool Sweater,119.78,2,0.1,44.66,Consumer,West
+ORD-20260324,2026-02-05,Apparel,Denim Jacket,280.49,1,0.05,75.15,Small Business,South
+ORD-20260325,2026-08-15,Apparel,Wool Sweater,210.84,4,0.0,40.48,Consumer,West
+ORD-20260326,2026-06-11,Home & Kitchen,Cookware Set,368.37,3,0.0,82.68,Small Business,East
+ORD-20260327,2026-04-16,Electronics,Laptop Pro,1361.24,4,0.1,421.26,Consumer,West
+ORD-20260328,2026-05-04,Beauty,Hydrating Serum,2340.56,8,0.0,722.03,Consumer,East
+ORD-20260329,2026-07-18,Home & Kitchen,Air Fryer,1217.65,7,0.05,438.2,Consumer,North
+ORD-20260330,2026-01-08,Sports,Yoga Mat,544.25,5,0.0,236.53,Corporate,East
+ORD-20260331,2026-08-05,Sports,Water Bottle,356.02,7,0.2,88.66,Consumer,East
+ORD-20260332,2026-02-10,Electronics,Laptop Pro,1755.32,4,0.05,518.47,Corporate,North
+ORD-20260333,2026-05-03,Home & Kitchen,Cookware Set,121.35,1,0.15,19.06,Small Business,North
+ORD-20260334,2026-03-03,Home & Kitchen,Air Fryer,322.94,1,0.0,64.31,Corporate,East
+ORD-20260335,2026-03-06,Apparel,Cotton T-Shirt,1669.15,5,0.0,636.66,Consumer,East
+ORD-20260336,2026-09-26,Beauty,Face Cleanser,258.76,2,0.2,70.02,Corporate,West
+ORD-20260337,2026-01-29,Sports,Resistance Bands,3110.56,8,0.05,769.21,Corporate,North
+ORD-20260338,2026-04-27,Sports,Yoga Mat,34.16,1,0.0,7.63,Corporate,East
+ORD-20260339,2026-04-02,Beauty,Moisturizer SPF50,255.5,1,0.15,47.2,Consumer,West
+ORD-20260340,2026-02-09,Home & Kitchen,Blender 3000,401.64,6,0.0,81.86,Small Business,North
+ORD-20260341,2026-08-27,Beauty,Hydrating Serum,1757.4,5,0.1,392.55,Small Business,West
+ORD-20260342,2026-04-13,Electronics,Laptop Pro,1301.3,5,0.1,435.53,Consumer,West
+ORD-20260343,2026-09-10,Home & Kitchen,Chef Knife,1334.48,4,0.2,403.7,Consumer,South
+ORD-20260344,2026-01-13,Electronics,Smartwatch,1002.28,4,0.0,436.29,Consumer,West
+ORD-20260345,2026-04-16,Home & Kitchen,Espresso Maker,790.48,4,0.0,349.21,Consumer,East
+ORD-20260346,2026-04-29,Electronics,Smartphone,2239.09,7,0.1,579.44,Small Business,North
+ORD-20260347,2026-09-16,Sports,Yoga Mat,876.57,3,0.15,128.49,Small Business,North
+ORD-20260348,2026-05-02,Beauty,Moisturizer SPF50,642.65,5,0.1,247.44,Corporate,East
+ORD-20260349,2026-05-20,Home & Kitchen,Cookware Set,189.96,4,0.05,34.44,Small Business,North
+ORD-20260350,2026-03-26,Apparel,Running Shoes,1741.84,8,0.15,275.71,Corporate,South
+ORD-20260351,2026-08-26,Beauty,Face Cleanser,1929.15,5,0.0,380.59,Small Business,East
+ORD-20260352,2026-04-21,Sports,Yoga Mat,477.12,6,0.05,199.67,Corporate,North
+ORD-20260353,2026-03-31,Home & Kitchen,Blender 3000,429.16,1,0.15,115.56,Small Business,South
+ORD-20260354,2026-02-22,Electronics,Smartwatch,203.49,3,0.0,81.22,Consumer,South
+ORD-20260355,2026-07-10,Apparel,Wool Sweater,536.62,2,0.1,205.37,Consumer,North
+ORD-20260356,2026-08-16,Electronics,Wireless Headphones,165.03,3,0.1,27.74,Corporate,North
+ORD-20260357,2026-08-10,Apparel,Backpack,1615.67,7,0.15,487.48,Consumer,East
+ORD-20260358,2026-05-21,Apparel,Denim Jacket,1045.05,5,0.05,159.24,Small Business,South
+ORD-20260359,2026-07-30,Home & Kitchen,Cookware Set,332.24,8,0.1,79.21,Corporate,South
+ORD-20260360,2026-10-06,Sports,Dumbbells 15lb,445.39,1,0.1,117.81,Corporate,East
+ORD-20260361,2026-06-14,Sports,Tennis Racket,928.48,7,0.0,228.09,Consumer,North
+ORD-20260362,2026-08-30,Home & Kitchen,Espresso Maker,2091.48,6,0.05,878.6,Consumer,South
+ORD-20260363,2026-10-01,Apparel,Cotton T-Shirt,347.36,1,0.05,106.49,Corporate,East
+ORD-20260364,2026-05-02,Apparel,Denim Jacket,2194.2,6,0.1,837.69,Consumer,East
+ORD-20260365,2026-03-14,Sports,Tennis Racket,1515.84,4,0.15,402.82,Consumer,West
+ORD-20260366,2026-01-29,Electronics,Smartphone,1106.88,4,0.0,340.85,Consumer,East
+ORD-20260367,2026-03-08,Sports,Dumbbells 15lb,1961.22,6,0.1,296.3,Consumer,South
+ORD-20260368,2026-07-06,Electronics,4K Monitor,355.02,2,0.15,98.32,Corporate,East
+ORD-20260369,2026-03-22,Home & Kitchen,Air Fryer,2516.15,7,0.15,737.34,Consumer,East
+ORD-20260370,2026-03-31,Apparel,Backpack,1039.29,7,0.1,176.04,Small Business,North
+ORD-20260371,2026-10-18,Sports,Water Bottle,94.21,1,0.1,36.15,Small Business,South
+ORD-20260372,2026-09-12,Sports,Yoga Mat,477.18,3,0.0,105.65,Corporate,South
+ORD-20260373,2026-08-17,Electronics,Laptop Pro,130.37,1,0.05,44.33,Corporate,East
+ORD-20260374,2026-01-25,Electronics,Smartphone,1439.41,7,0.15,539.23,Corporate,West
+ORD-20260375,2026-10-07,Beauty,Face Cleanser,413.84,7,0.15,136.0,Small Business,South
+ORD-20260376,2026-02-07,Apparel,Wool Sweater,143.29,1,0.1,29.45,Consumer,North
+ORD-20260377,2026-07-12,Home & Kitchen,Air Fryer,1000.23,3,0.2,346.12,Consumer,East
+ORD-20260378,2026-09-05,Sports,Tennis Racket,202.63,1,0.05,63.95,Corporate,South
+ORD-20260379,2026-06-19,Electronics,Smartphone,1755.44,4,0.15,535.91,Small Business,East
+ORD-20260380,2026-05-02,Home & Kitchen,Blender 3000,73.18,2,0.2,18.44,Corporate,South
+ORD-20260381,2026-01-02,Electronics,Laptop Pro,371.84,7,0.2,87.49,Consumer,North
+ORD-20260382,2026-05-30,Apparel,Denim Jacket,442.0,2,0.0,107.19,Corporate,West
+ORD-20260383,2026-02-16,Beauty,Face Cleanser,667.94,7,0.15,148.08,Corporate,North
+ORD-20260384,2026-08-27,Home & Kitchen,Cookware Set,567.1,5,0.1,162.95,Consumer,North
+ORD-20260385,2026-10-05,Electronics,Laptop Pro,3060.82,7,0.2,534.43,Consumer,West
+ORD-20260386,2026-10-02,Sports,Water Bottle,2113.04,8,0.05,587.92,Consumer,West
+ORD-20260387,2026-10-20,Electronics,4K Monitor,201.96,3,0.15,34.65,Consumer,South
+ORD-20260388,2026-01-22,Apparel,Denim Jacket,343.63,7,0.15,61.51,Small Business,South
+ORD-20260389,2026-06-13,Sports,Resistance Bands,105.72,2,0.2,22.77,Corporate,East
+ORD-20260390,2026-01-07,Sports,Water Bottle,447.65,7,0.05,82.7,Small Business,North
+ORD-20260391,2026-02-21,Electronics,4K Monitor,1961.75,5,0.1,729.83,Corporate,West
+ORD-20260392,2026-08-31,Beauty,Lip Balm,89.91,1,0.15,14.76,Small Business,West
+ORD-20260393,2026-06-19,Electronics,Smartwatch,145.76,4,0.15,52.81,Corporate,North
+ORD-20260394,2026-06-09,Home & Kitchen,Blender 3000,1908.2,5,0.0,842.95,Consumer,South
+ORD-20260395,2026-06-14,Home & Kitchen,Cookware Set,1660.15,5,0.2,456.43,Consumer,West
+ORD-20260396,2026-09-06,Apparel,Wool Sweater,2232.84,6,0.2,692.09,Consumer,East
+ORD-20260397,2026-03-11,Sports,Water Bottle,90.58,1,0.05,34.51,Consumer,North
+ORD-20260398,2026-07-04,Beauty,Hydrating Serum,536.72,4,0.15,137.57,Small Business,North
+ORD-20260399,2026-07-10,Electronics,Wireless Headphones,2187.28,8,0.05,910.45,Corporate,East
+ORD-20260400,2026-05-13,Home & Kitchen,Air Fryer,278.02,2,0.15,38.97,Small Business,South
+ORD-20260401,2026-04-16,Apparel,Denim Jacket,1492.2,5,0.2,186.25,Small Business,North
+ORD-20260402,2026-03-30,Beauty,Moisturizer SPF50,112.34,1,0.2,35.19,Corporate,East
+ORD-20260403,2026-06-28,Beauty,Shampoo Bar,996.96,8,0.15,203.93,Small Business,West
+ORD-20260404,2026-01-04,Sports,Yoga Mat,1555.38,6,0.2,414.0,Corporate,North
+ORD-20260405,2026-06-22,Beauty,Hydrating Serum,1468.3,5,0.1,301.75,Small Business,East
+ORD-20260406,2026-09-22,Apparel,Denim Jacket,1625.44,4,0.2,352.69,Corporate,South
+ORD-20260407,2026-06-01,Electronics,Smartwatch,2047.55,5,0.15,463.79,Consumer,South
+ORD-20260408,2026-10-01,Home & Kitchen,Air Fryer,3274.72,8,0.1,890.64,Consumer,South
+ORD-20260409,2026-08-30,Home & Kitchen,Espresso Maker,1011.9,3,0.2,306.71,Consumer,East
+ORD-20260410,2026-07-01,Electronics,Wireless Headphones,1354.92,4,0.1,336.74,Corporate,East
+ORD-20260411,2026-05-31,Home & Kitchen,Chef Knife,3082.24,8,0.15,435.17,Small Business,North
+ORD-20260412,2026-09-14,Beauty,Moisturizer SPF50,784.72,2,0.15,206.07,Corporate,North
+ORD-20260413,2026-04-13,Apparel,Denim Jacket,1158.0,6,0.2,387.1,Corporate,South
+ORD-20260414,2026-02-11,Home & Kitchen,Air Fryer,1277.52,8,0.05,296.16,Consumer,North
+ORD-20260415,2026-04-18,Beauty,Face Cleanser,797.04,3,0.05,224.79,Consumer,South
+ORD-20260416,2026-08-08,Sports,Water Bottle,1411.41,7,0.15,317.91,Consumer,South
+ORD-20260417,2026-06-14,Home & Kitchen,Espresso Maker,91.16,4,0.0,30.81,Consumer,South
+ORD-20260418,2026-03-08,Home & Kitchen,Blender 3000,363.68,2,0.2,70.36,Consumer,North
+ORD-20260419,2026-08-22,Home & Kitchen,Blender 3000,1221.84,6,0.05,293.46,Corporate,East
+ORD-20260420,2026-07-26,Apparel,Denim Jacket,114.36,1,0.05,23.18,Consumer,South
+ORD-20260421,2026-01-20,Electronics,Laptop Pro,2774.1,7,0.1,952.17,Small Business,North
+ORD-20260422,2026-02-25,Sports,Yoga Mat,35.98,1,0.0,9.9,Corporate,North
+ORD-20260423,2026-08-31,Sports,Resistance Bands,313.17,3,0.0,75.27,Small Business,North
+ORD-20260424,2026-03-12,Sports,Resistance Bands,2634.31,7,0.0,799.45,Small Business,North
+ORD-20260425,2026-02-24,Home & Kitchen,Espresso Maker,811.28,8,0.05,295.48,Small Business,South
+ORD-20260426,2026-06-01,Home & Kitchen,Cookware Set,96.42,3,0.15,34.68,Small Business,West
+ORD-20260427,2026-01-02,Home & Kitchen,Air Fryer,307.16,1,0.0,123.04,Small Business,West
+ORD-20260428,2026-09-19,Apparel,Running Shoes,659.5,2,0.0,277.94,Small Business,South
+ORD-20260429,2026-05-16,Beauty,Face Cleanser,294.24,8,0.05,115.23,Corporate,East
+ORD-20260430,2026-03-01,Home & Kitchen,Cookware Set,770.58,2,0.0,117.82,Consumer,South
+ORD-20260431,2026-08-13,Home & Kitchen,Blender 3000,1985.7,5,0.0,519.83,Corporate,South
+ORD-20260432,2026-07-24,Electronics,Smartwatch,1066.0,8,0.15,323.45,Corporate,West
+ORD-20260433,2026-03-09,Apparel,Running Shoes,441.98,1,0.05,76.05,Small Business,West
+ORD-20260434,2026-04-03,Sports,Water Bottle,2477.58,7,0.2,314.44,Small Business,South
+ORD-20260435,2026-02-27,Beauty,Shampoo Bar,1446.9,7,0.0,330.59,Corporate,North
+ORD-20260436,2026-10-17,Sports,Tennis Racket,1761.52,4,0.1,484.69,Small Business,North
+ORD-20260437,2026-09-04,Beauty,Moisturizer SPF50,1822.26,6,0.15,301.41,Small Business,North
+ORD-20260438,2026-09-16,Electronics,Wireless Headphones,3084.48,8,0.05,505.35,Corporate,East
+ORD-20260439,2026-05-23,Apparel,Cotton T-Shirt,235.51,1,0.2,64.62,Corporate,South
+ORD-20260440,2026-08-16,Electronics,Smartwatch,426.32,8,0.15,102.96,Consumer,West
+ORD-20260441,2026-07-26,Electronics,Smartphone,214.13,7,0.2,25.7,Consumer,East
+ORD-20260442,2026-04-16,Sports,Tennis Racket,3427.2,8,0.1,1226.37,Consumer,West
+ORD-20260443,2026-08-31,Home & Kitchen,Chef Knife,1958.52,6,0.0,351.03,Small Business,South
+ORD-20260444,2026-07-01,Electronics,Laptop Pro,1266.25,5,0.1,410.98,Consumer,South
+ORD-20260445,2026-07-29,Beauty,Moisturizer SPF50,251.24,2,0.05,49.23,Corporate,South
+ORD-20260446,2026-06-23,Beauty,Moisturizer SPF50,688.72,2,0.0,294.76,Small Business,North
+ORD-20260447,2026-09-16,Beauty,Shampoo Bar,1302.84,3,0.0,402.72,Consumer,West
+ORD-20260448,2026-09-18,Sports,Water Bottle,947.82,3,0.05,332.39,Consumer,North
+ORD-20260449,2026-06-14,Beauty,Lip Balm,1379.84,7,0.2,468.9,Consumer,East
+ORD-20260450,2026-05-31,Beauty,Face Cleanser,2920.72,8,0.05,759.77,Small Business,East
+ORD-20260451,2026-10-11,Sports,Resistance Bands,409.56,4,0.2,119.37,Small Business,East
+ORD-20260452,2026-09-15,Apparel,Denim Jacket,1944.0,6,0.1,557.57,Small Business,West
+ORD-20260453,2026-08-05,Sports,Resistance Bands,242.39,1,0.0,64.05,Consumer,North
+ORD-20260454,2026-03-24,Apparel,Cotton T-Shirt,1561.35,5,0.05,596.0,Small Business,East
+ORD-20260455,2026-01-17,Apparel,Backpack,2214.6,6,0.0,741.52,Small Business,South
+ORD-20260456,2026-05-02,Sports,Water Bottle,1582.15,5,0.0,677.07,Corporate,West
+ORD-20260457,2026-01-28,Home & Kitchen,Chef Knife,338.5,1,0.05,108.1,Corporate,South
+ORD-20260458,2026-10-07,Home & Kitchen,Chef Knife,1410.48,4,0.05,319.25,Consumer,North
+ORD-20260459,2026-09-21,Apparel,Denim Jacket,358.16,2,0.15,71.16,Corporate,South
+ORD-20260460,2026-05-11,Apparel,Backpack,158.79,1,0.05,24.44,Corporate,North
+ORD-20260461,2026-09-09,Sports,Resistance Bands,280.2,6,0.1,77.58,Consumer,North
+ORD-20260462,2026-08-01,Sports,Dumbbells 15lb,385.0,7,0.05,151.79,Small Business,East
+ORD-20260463,2026-05-31,Home & Kitchen,Blender 3000,1713.52,4,0.2,423.79,Small Business,North
+ORD-20260464,2026-08-17,Electronics,Laptop Pro,1633.84,4,0.2,556.27,Consumer,North
+ORD-20260465,2026-02-28,Home & Kitchen,Cookware Set,886.34,7,0.1,125.57,Small Business,East
+ORD-20260466,2026-08-17,Sports,Tennis Racket,272.64,8,0.05,63.74,Consumer,North
+ORD-20260467,2026-10-01,Apparel,Backpack,287.72,1,0.05,95.97,Consumer,West
+ORD-20260468,2026-10-03,Electronics,Wireless Headphones,2073.75,7,0.0,775.72,Consumer,North
+ORD-20260469,2026-01-20,Beauty,Face Cleanser,93.72,2,0.05,34.57,Small Business,North
+ORD-20260470,2026-05-13,Sports,Dumbbells 15lb,1286.53,7,0.15,306.09,Consumer,West
+ORD-20260471,2026-01-04,Electronics,4K Monitor,687.68,2,0.2,90.03,Consumer,East
+ORD-20260472,2026-05-29,Sports,Yoga Mat,1394.3,5,0.1,476.33,Corporate,West
+ORD-20260473,2026-08-31,Beauty,Hydrating Serum,741.18,3,0.05,263.36,Small Business,East
+ORD-20260474,2026-07-11,Apparel,Cotton T-Shirt,255.78,1,0.2,39.37,Consumer,North
+ORD-20260475,2026-07-21,Sports,Tennis Racket,295.08,2,0.1,56.71,Small Business,South
+ORD-20260476,2026-04-24,Apparel,Denim Jacket,497.65,5,0.05,166.08,Small Business,North
+ORD-20260477,2026-10-09,Sports,Water Bottle,282.86,2,0.0,63.7,Consumer,West
+ORD-20260478,2026-03-07,Home & Kitchen,Blender 3000,234.08,4,0.2,32.01,Consumer,East
+ORD-20260479,2026-06-18,Beauty,Shampoo Bar,1583.25,5,0.05,480.81,Corporate,East
+ORD-20260480,2026-01-03,Beauty,Moisturizer SPF50,732.54,6,0.05,253.08,Small Business,West
+ORD-20260481,2026-03-10,Home & Kitchen,Blender 3000,2381.28,6,0.15,574.05,Corporate,West
+ORD-20260482,2026-03-31,Sports,Yoga Mat,762.36,2,0.05,302.29,Consumer,East
+ORD-20260483,2026-01-10,Electronics,Smartphone,368.5,1,0.2,80.05,Small Business,South
+ORD-20260484,2026-05-14,Electronics,4K Monitor,2395.6,8,0.05,591.13,Consumer,East
+ORD-20260485,2026-09-14,Apparel,Wool Sweater,375.2,2,0.2,45.98,Consumer,South
+ORD-20260486,2026-08-17,Sports,Dumbbells 15lb,278.79,3,0.2,77.58,Consumer,West
+ORD-20260487,2026-04-23,Home & Kitchen,Espresso Maker,926.48,8,0.1,217.49,Consumer,South
+ORD-20260488,2026-07-18,Sports,Resistance Bands,3314.32,8,0.0,536.83,Small Business,East
+ORD-20260489,2026-05-21,Electronics,4K Monitor,1333.5,5,0.2,215.66,Small Business,West
+ORD-20260490,2026-02-09,Home & Kitchen,Chef Knife,893.5,5,0.05,258.82,Corporate,East
+ORD-20260491,2026-01-04,Beauty,Shampoo Bar,619.08,3,0.05,101.82,Small Business,East
+ORD-20260492,2026-04-06,Apparel,Denim Jacket,517.71,3,0.0,180.34,Corporate,East
+ORD-20260493,2026-09-03,Electronics,Smartwatch,853.28,8,0.05,279.0,Corporate,North
+ORD-20260494,2026-03-07,Apparel,Running Shoes,220.8,3,0.2,28.57,Small Business,South
+ORD-20260495,2026-05-13,Electronics,Wireless Headphones,719.22,3,0.15,201.62,Small Business,North
+ORD-20260496,2026-04-21,Home & Kitchen,Espresso Maker,2230.72,8,0.15,777.77,Consumer,South
+ORD-20260497,2026-03-15,Beauty,Lip Balm,858.3,3,0.2,157.49,Small Business,East
+ORD-20260498,2026-02-05,Beauty,Lip Balm,718.08,4,0.05,124.55,Consumer,West
+ORD-20260499,2026-02-19,Apparel,Backpack,666.0,3,0.2,175.79,Small Business,North
+ORD-20260500,2026-03-08,Electronics,Smartwatch,405.18,1,0.15,105.6,Corporate,North
