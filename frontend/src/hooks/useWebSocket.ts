@@ -20,9 +20,11 @@ export function useWebSocket({ runId, lastSeq, onEvent }: UseWebSocketOptions) {
   const connect = useCallback(() => {
     if (!runId) return;
 
-    // Use current location host, converting http/https to ws/wss
-    const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
-    const host = window.location.host;
+    // Connect directly to Railway WebSocket when deployed remotely, or use localhost in development
+    const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    const defaultRemoteHost = 'autoanalyst-production.up.railway.app';
+    const host = (import.meta.env.VITE_WS_HOST as string) || (isLocal ? window.location.host : defaultRemoteHost);
+    const protocol = (window.location.protocol === 'https:' || !isLocal) ? 'wss:' : 'ws:';
     const wsUrl = `${protocol}//${host}/ws/runs/${runId}?last_seq=${lastSeqRef.current}`;
 
     try {
