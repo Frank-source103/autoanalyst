@@ -32,8 +32,16 @@ export const DatasetUploader: React.FC<DatasetUploaderProps> = ({ onStartRun, is
       });
 
       if (!res.ok) {
-        const err = await res.json();
-        throw new Error(err.detail || 'Upload failed');
+        let detail = `Upload failed (${res.status} ${res.statusText || 'Error'})`;
+        try {
+          const err = await res.json();
+          if (err && err.detail) detail = err.detail;
+        } catch {
+          if (res.status === 404) {
+            detail = 'Backend upload endpoint not found (404). Ensure the backend API is running and connected.';
+          }
+        }
+        throw new Error(detail);
       }
 
       const data = await res.json();
@@ -57,8 +65,16 @@ export const DatasetUploader: React.FC<DatasetUploaderProps> = ({ onStartRun, is
     try {
       const res = await fetch('/api/upload/sample', { method: 'POST' });
       if (!res.ok) {
-        const err = await res.json();
-        throw new Error(err.detail || 'Sample load failed');
+        let detail = `Sample load failed (${res.status} ${res.statusText || 'Error'})`;
+        try {
+          const err = await res.json();
+          if (err && err.detail) detail = err.detail;
+        } catch {
+          if (res.status === 404) {
+            detail = 'Backend endpoint not found (404). If testing the Cloudflare deployment, open local app at http://localhost:5175 where the backend proxy is active.';
+          }
+        }
+        throw new Error(detail);
       }
       const data = await res.json();
       setFileMeta({

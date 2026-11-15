@@ -125,8 +125,16 @@ export function useRunState() {
     });
 
     if (!res.ok) {
-      const err = await res.json();
-      throw new Error(err.detail || 'Failed to start run');
+      let detail = `Failed to start run (${res.status} ${res.statusText || 'Error'})`;
+      try {
+        const err = await res.json();
+        if (err && err.detail) detail = err.detail;
+      } catch {
+        if (res.status === 404) {
+          detail = 'Run endpoint not found (404). Ensure the backend server is running and accessible.';
+        }
+      }
+      throw new Error(detail);
     }
 
     const data = await res.json();
