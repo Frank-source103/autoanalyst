@@ -1,0 +1,13 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: autoanalyst-backend
+    ports:
+      - "8008:8008"
+    environment:
+      - PORT=8008
+      - SANDBOX_PROVIDER=auto
+    volumes:
+      - ./backend/data:/app/backend/data
